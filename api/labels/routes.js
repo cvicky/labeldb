@@ -59,7 +59,6 @@ router.route('/:id')
 			}
 		);
 	});
-	
 
 //DELETE request
 router.route('/:id')
